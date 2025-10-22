@@ -118,7 +118,11 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/Scince17Boy/Kaira-Bot.git
-    cd Kaira-Bot
+   
+    ```
+      ```bash
+     cd Kaira-Bot
+      
     ```
 
 2. **Install the dependencies:**
